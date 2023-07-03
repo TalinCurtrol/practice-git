@@ -6,3 +6,5 @@ This tutoial is mainly on Github and using Github as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for Github.
+
+A new line from new branch.
